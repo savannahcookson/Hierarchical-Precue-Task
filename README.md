@@ -27,6 +27,7 @@ This task has been pseudo-counterbalanced (full counterbalancing would require 6
 	* NontriggeredExperiment.py: Python program for running the the experiment outside of a TTL-triggering MRI scanner
 	* ScannerTriggeredExperiment.py: Python program for running the experiment in a TTL-triggering scanner
 * images/: set of image masks used to create the convexity-varying shapes used for stimuli in the experiment
+* .gitignore
 * LICENSE
 * README.md
 * ReferenceFunctionFiles/: set of files that produce reference functions for AFNI analysis post-experiment
