@@ -1,0 +1,24 @@
+				L	(34)			R (98)
+group1			Color(WC)		Convexity(TF)
+				VH(AB)			HL (IO)
+
+group2			Convexity(FT)		Color(CW)
+				HL(OI)			VH(BA)
+
+group3			Color(WC)		Convexity(TF)
+				HL(OI)			VH(BA)
+
+group4			Convexity(FT)		Color(CW)
+				VH(AB)			HL(IO)
+
+group5			Color(CW)		Convexity(FT)
+				VH(BA)			HL(OI)
+
+group6			Convexity(TF)		Color(WC)
+				HL(IO)			VH(AB)
+
+group7			Color(CW)		Convexity(FT)
+				HL(IO)			VH(AB)
+
+group8			Convexity(TF)		Color(WC)
+				VH(BA)			HL(OI)
